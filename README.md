@@ -61,6 +61,20 @@ The objective was to transform raw transactional data into structured insights u
 
 ---
 
+### 7️⃣ Division Level Report
+- Analyzed division-wise net sales for 2020 and 2021  
+- Compared year-over-year growth (2021 vs 2020) to measure division performance  
+- Identified highest revenue-generating divisions contributing to overall growth  
+
+---
+
+### 8️⃣ India Customers Performance Report
+- Evaluated India market customer-wise net sales for 2019–2021  
+- Analyzed 2021 vs 2020 growth percentage to track performance improvement  
+- Identified top-performing customers driving revenue growth in the India market  
+
+---
+
 ## 📈 Skills Demonstrated
 - Business problem translation into analytical tasks  
 - Growth percentage computation  
