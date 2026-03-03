@@ -5,7 +5,7 @@
 
 This project focuses on analyzing Atliq’s sales data using Microsoft Excel to answer key business questions related to product growth, division performance, country contribution, and new product introduction.
 
-The objective was to transform raw transactional data into structured insights using Pivot Tables, ranking techniques, and year-over-year growth calculations.
+The objective was to transform raw transactional data into structured insights using Pivot Tables, ranking techniques, and growth calculations between 2020 and 2021.
 
 ---
 
@@ -24,7 +24,7 @@ The objective was to transform raw transactional data into structured insights u
 
 ### 1️⃣ Top 10 Products by % Growth (2020 vs 2021)
 
-* Calculated YoY net sales growth
+* Calculated net sales growth between 2020 and 2021
 * Ranked products based on percentage increase
 * Identified fastest-growing products
 
@@ -48,7 +48,7 @@ The objective was to transform raw transactional data into structured insights u
 ### 4️⃣ New Products Introduced in 2021
 
 * Identified products with no sales in 2020
-* Extracted SKUs with 0% YoY comparison
+* Extracted SKUs with 0% comparison between 2021 and 2020
 * Highlighted newly launched products contributing to 2021 revenue
 
 ---
@@ -64,7 +64,7 @@ The objective was to transform raw transactional data into structured insights u
 ## 📈 Skills Demonstrated
 
 * Business problem translation into analytical tasks
-* YoY growth computation
+* Growth percentage computation
 * Ranking and performance comparison
 * Data summarization using Pivot Tables
 * Converting raw data into actionable insights
