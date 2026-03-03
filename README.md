@@ -13,7 +13,7 @@ The objective was to transform raw transactional data into structured insights u
 
 * Microsoft Excel
 * Pivot Tables
-* Year-over-Year (YoY) Growth % Calculation
+* Growth % Calculation
 * Sorting & Ranking
 * Conditional Formatting
 * Data Filtering
