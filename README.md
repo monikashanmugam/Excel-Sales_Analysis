@@ -54,6 +54,13 @@ The objective was to transform raw transactional data into structured insights u
 
 ---
 
+### 6️⃣ Customer Performance Report
+- Analyzed customer-wise net sales performance for 2019–2021  
+- Evaluated year-over-year growth (2021 vs 2020) to measure performance trends  
+- Identified top-performing and high-growth customers to support business decisions  
+
+---
+
 ## 📈 Skills Demonstrated
 - Business problem translation into analytical tasks  
 - Growth percentage computation  
